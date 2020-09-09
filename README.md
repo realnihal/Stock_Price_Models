@@ -1,4 +1,4 @@
-# Stock_Price_Model
+# Stock_Price_Models
 
 ## Stock_Project_V1
 Machine learning algorithm using sklearn's 'Decision Tree Regression' and 'Linear Regression'. Future Predictions are made using the more promising model. Exammple Data of Netflix is used.
