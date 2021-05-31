@@ -1,7 +1,7 @@
 # Stock_Price_Models
 
 ## Using_Linear_and_Decision_Tree_Regression
-Machine learning algorithm using sklearn's 'Decision Tree Regression' and 'Linear Regression'. Future Predictions are made using the more promising model. Exammple Data of Netflix is used.
+Machine learning algorithm using sklearn's 'Decision Tree Regression' and 'Linear Regression'. Future Predictions are made using the more promising model. Example Data of Netflix is used.
 To run the code on your machine, enter your required ticker and your tiingo api key.
 This is model only supports the data available on tiingo, you can tweek the input parameters if you want to use other apis.
 The end result is positive but quite not reliable. I would not suggest anyone to put real money in these predictions.
